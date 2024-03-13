@@ -1,3 +1,3 @@
-# Data scientist - researcher
+# Data scientist & algorithm developer
 
 
