@@ -1,3 +1,2 @@
-# Data scientist & algorithm developer
-
+# Data scientist $\boldsymbol{\cdot}$ Algorithm developer $\boldsymbol{\cdot}$ Researcher
 
