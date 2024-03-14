@@ -1,2 +1,2 @@
-# Data scientist • Algorithm developer • Researcher
+## Data scientist • Algorithm developer • Researcher
 
